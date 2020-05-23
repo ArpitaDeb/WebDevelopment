@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+h1 {
+    margin: 0 auto 0 auto;
+    width: 10%;
+}
+.top-container {
+    background-color: #E4F9F5;
+}
+.middle-container {
+    background-color: #E4F9F5;
+    width: 200px;
+    height: 200px;
+}
+.bottom-container {
+    background-color: #E4F9F5;
+}
